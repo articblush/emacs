@@ -1,3 +1,6 @@
+;; Official port forked from kborling -*- lexical-binding: t; -*-
+;; Articblish Colorscheme 
+
 (deftheme articblush "articblush color theme.")
 
 ;;; Variables
