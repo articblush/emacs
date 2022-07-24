@@ -1,4 +1,4 @@
-(deftheme articblush "UwU color theme.")
+(deftheme articblush "articblush color theme.")
 
 ;;; Variables
 (eval-and-compile
