@@ -1,4 +1,7 @@
 <h2 align="center"> Articblush Emacs </h2> 
+<h3 align="center"> Cold & Comfy theme for your emacs.</h3> 
+
+---
 
 ## Installation
 
