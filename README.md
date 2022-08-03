@@ -1,8 +1,11 @@
-<h2 align="center"> Articblush Emacs </h2> 
-<h3 align="center"> Cold & Comfy theme for your emacs.</h3> 
+<h1 align="center">
+	<img src="https://github.com/articblush/.github/blob/main/src/articblush56.png" width="25%" alt="Logo"/><br/>
+	Articblush for Emacs</a>
+  </h1>
 
----
-
+ <h3 align="center">Beautiful colors , cold and comfy.</h3>
+ 
+ ----
 ## Installation
 
 run this command
